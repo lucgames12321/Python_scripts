@@ -8,7 +8,7 @@ To simplify the installation process, you can use the provided `setup.sh` script
 1. Open a terminal on your Raspberry Pi.
 2. Clone the repository containing the `setup.sh` script:
     ```bash
-    git clone https://github.com/lucgames12321/DigitalSignage-client.git
+    git clone https://github.com/DonerNator/DigitalSignage-client.git
     ```
 
 3. Navigate to the directory containing the script:
